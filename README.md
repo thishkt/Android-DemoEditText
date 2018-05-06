@@ -1,7 +1,3 @@
-Android-DemoEditText
-===
-
-
 # 從零開始學 kotlin 程式設計
 ![](https://i.imgur.com/wbyhsUH.jpg)
 
