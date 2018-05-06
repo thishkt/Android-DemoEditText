@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoEditText</string>
+    <string name="hint_input_num">請輸入數字</string>
+</resources>
